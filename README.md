@@ -5,8 +5,6 @@ The kit includes
 40 pin Raspberry Pi connector
 Bc547 Transister 
 TSOP4838 IR receive And Ir Trasmitter(IR Blaster).
-
-
 Decoding the IR signal
 I started this project with the simple goal of wanting to turn on my heater on my way home from work so I could come home to a nice warm apartment. I have a wall mounted heater / air-conditioner with an infrared remote control. I didn't know anything about infrared, but I figured there must be a fairly easy way to capture the IR signal and play it back. I wasn't sure exactly what I needed to do this, so I did some research. I came across this wonderful video by David L. Jones. In the video, he uses a fancy oscilloscope to view the waveform produced by an infrared remote, and then analyzes it to show us how it works. Infrared turned out to be fairly simple, and the video gave me an idea of the parts I would need to get this project working.
 
